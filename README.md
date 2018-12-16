@@ -1,0 +1,2 @@
+# Dome to compare shadow
+
